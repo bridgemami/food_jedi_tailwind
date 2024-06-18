@@ -1,0 +1,14 @@
+{
+  "name": "food_jedi_tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tailwindcss -i ./src/input.css -o ./public/output.css --watch"
+  },
+  "author": "Michael Bridgeman",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
